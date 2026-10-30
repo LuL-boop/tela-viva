@@ -1,0 +1,14 @@
+{
+  "name": "tela-viva",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Editor de sites e apps com IA, elemento por elemento",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
